@@ -25,16 +25,26 @@ box1=102;
 console.log(box1);
 //@box=10;
 //box@box=11;
+</pre>
+## Var
+<pre>
+
 var hello="Last Update";
 console.log(hello);
 
 // es5 es6  
 
+</pre>
+## Const
+<pre>
 const hello1="ES5 and ES6";
 //const hello1="ES5 and ES6";
 hello1="Hello Developer";
 console.log(hello1);
 
+</pre>
+## Let
+<pre>
 // (function)[array]{block}
 let hello2="Punit";
 console.log(hello2);
