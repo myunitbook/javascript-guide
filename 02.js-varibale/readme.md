@@ -1,5 +1,8 @@
+
+# Js Variable 
+
 <pre>
-// variable
+
 //name=value
 data="Hello Variable data";
 DATA="Hello Developer";
