@@ -1,2 +1,18 @@
-# javascript-guide
-JavaScript  Guide
+# Javascript-Guide
+<hr>
+
+## 🎓 Core Concepts
+
+> Syntax
+
+> Print Data
+
+> Varibale
+
+> Data Type
+
+> Array and Object
+
+> Js Loops
+
+>
