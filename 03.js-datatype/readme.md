@@ -1,18 +1,18 @@
 # JavaScript Data Type
 
-## Primptive Datatype
+## Primitive Data Type
 
 > Number
 
-> string
+> String
 
-> boolen
+> Boolen
 
-> undefine
+> Undefine
 
-> null
+> Null
 
-## non primptive 
+## non primitive 
 
 > array
 
